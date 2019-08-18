@@ -1,0 +1,26 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "description": "pracitce vue server side rendering",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "vue": "^2.6.10",
+    "vue-server-renderer": "^2.6.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazywook/vue-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crazywook/vue-ssr/issues"
+  },
+  "homepage": "https://github.com/crazywook/vue-ssr#readme"
+}
